@@ -1,5 +1,5 @@
 # NeopetsStuckPetFinder
-A tool that finds Neopets in the Pound. Documentation only!
+A tool that finds Neopets in the Pound. Written in Java SE 8 and uses jsoup. Documentation only!
 
 ## Usage
 This is a program written to be used on Neopets.com, a virtual pet game site.
